@@ -1,0 +1,12 @@
+D:\anu\Demo\skinet\infrastructure\bin\Debug\netstandard2.0\infrastructure.deps.json
+D:\anu\Demo\skinet\infrastructure\bin\Debug\netstandard2.0\infrastructure.dll
+D:\anu\Demo\skinet\infrastructure\bin\Debug\netstandard2.0\infrastructure.pdb
+D:\anu\Demo\skinet\infrastructure\bin\Debug\netstandard2.0\Core.dll
+D:\anu\Demo\skinet\infrastructure\bin\Debug\netstandard2.0\Core.pdb
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.csprojAssemblyReference.cache
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.csproj.CoreCompileInputs.cache
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.AssemblyInfoInputs.cache
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.AssemblyInfo.cs
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.csproj.CopyComplete
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.dll
+D:\anu\Demo\skinet\infrastructure\obj\Debug\netstandard2.0\infrastructure.pdb
