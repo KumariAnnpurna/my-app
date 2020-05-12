@@ -1185,11 +1185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\anu\\Demo\\skinet\\API\\API.csproj",
+      "projectUniqueName": "D:\\anu\\Demo\\skinet\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\anu\\Demo\\skinet\\API\\API.csproj",
+      "projectPath": "D:\\anu\\Demo\\skinet\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
-      "outputPath": "D:\\anu\\Demo\\skinet\\API\\obj\\",
+      "outputPath": "D:\\anu\\Demo\\skinet\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
